@@ -1,0 +1,194 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    padding: 20px 200px;
+}
+
+.header_card{
+    
+    display: flex;
+    gap: 800px;
+}
+
+
+.header_logo{
+    font-size: 24px;
+    color: #F9faf8;
+    font-weight: bold;
+}
+
+.header_links{
+
+    display: flex;
+    gap: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #F9faf8;
+    
+}
+
+
+.second_layer{
+    display: flex;
+    padding: 80px 200px;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+}
+
+.second_layer_card{
+    display: flex;
+    gap: 200px;
+    
+}
+
+.left_second_layer{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+}
+
+.main_text{
+    color: #F9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.sub_text{
+    color: #F9faf8;
+    width: 330px;
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+
+.second_layer_button{
+    align-self: flex-start;
+    padding: 8px 25px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 10px;
+    border-color: #3882f6;
+}
+
+
+.third_layer_title{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+
+}
+
+.fourth_layer{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    padding: 40px;
+}
+
+
+
+.sub_text_image{
+    max-width: 150px;
+    text-align: center;
+}
+.img_fourth_layer{
+
+    border: 4px solid;
+    border-color:  #1f2937;
+    border-radius: 10px;
+
+}
+
+.fifth_layer{
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e5e7eb;
+
+}
+
+.fifth_layer_card{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.quote{
+    max-width: 900px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.name{
+    margin-left: auto;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.sixth_layer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 160px;
+}
+
+.blue_card{
+    display: flex;
+    gap: 150px;
+    padding: 50px 80px;
+    background-color: #3882f6;
+    border-radius: 15px;
+    color:#F9faf8;
+}
+
+.left_blue_card{
+    display: flex;
+    flex-direction: column;
+}
+
+.call_to_action{
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.lower_button{
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: #f9faf8;
+    padding: 2px 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer{
+    text-align: center;
+    background-color:#1f2937;
+    padding: 40px 0px;
+    font-size: 17px;
+    color: #f9faf8;
+
+}
+
+
+
